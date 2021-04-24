@@ -1,9 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
- ABCofIR
+ Class3E - CyberSecurityCompendium
 </h1>
 
-A blog website for the subject of Interantional Relations managed by students who study and are intrested in the subject.
+This is a resource library to help you find the solutions for all things Cyber and make getting into Cyber CyberSecurity way easier and accessible for everyone
 
 
 ## 💫 Deploy
