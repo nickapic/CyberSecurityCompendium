@@ -1,0 +1,63 @@
+.hero-container {
+  display: flex;
+}
+
+.text-box {
+  height: 20rem;
+  width: 60%;
+  margin-right: auto;
+}
+
+.image-box {
+  height: 20rem;
+  width: 40rem;
+  margin-right: 15rem;
+  margin-bottom: 5rem;
+}
+
+h1 {
+  margin: 0;
+}
+.small-heading {
+  margin-top: 7rem;
+  font-size: 2.2rem;
+}
+
+.main-heading {
+  font-family: Poppins, sans-serif;
+  font-size: 4.2rem;
+  font-weight: 700;
+  letter-spacing: 3%;
+  margin-bottom: 3rem;
+}
+
+h2 {
+  font-family: Poppins, sans-serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  letter-spacing: 3%;
+  margin-bottom: 3rem;
+}
+
+.featured-text {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+.heroimg {
+  width: 100%;
+  height: 100%;
+}
+.paragraph {
+  width: 50%;
+  margin-top: 2rem;
+  font-size: 1.7rem;
+}
+
+.read-more {
+  font-size: 1.7rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+}
