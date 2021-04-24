@@ -23,8 +23,10 @@ class BlogIndex extends React.Component {
           margin: `4rem 0`
         }}></hr>
         <span className='blog-label'>Resources</span>
+        
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
+          console.log(posts);
           return (
             
             <div className='blog-card-box'>
